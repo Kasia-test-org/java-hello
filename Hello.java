@@ -14,7 +14,8 @@ class Hello
 		//Display "Hello World"
 		System.out.print("Hello World");
         System.out.print("This is my first Java Program");
-        System.out.println("Hello from second computer")
+        System.out.print("Hello from second computer")
+        System.out.println(" using another branch")
         hello();
     }//end of main
     public static void hello()
