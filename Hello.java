@@ -1,5 +1,5 @@
-//Programmer:Katarzyna Wickowska
-//Student nr:B00100585
+//Programmer:
+//Student nr:
 //Date written:22/09/2017
 //Function: Exercise
 
