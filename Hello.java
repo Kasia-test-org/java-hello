@@ -13,12 +13,13 @@ class Hello
 	{
 		//Display "Hello World"
 		System.out.print("Hello World");
-        System.out.print("This is my first Java Program");
-        System.out.print("Hello from second computer");
-        System.out.println(" using another branch");
+		System.out.print("This is my first Java Program");
+		System.out.print("Hello from second computer");
+		System.out.println(" using another branch");
 		System.out.println("Downloaded and edited from another computer");
-        hello();
-    }//end of main
+		System.out.println(" edited through website by Kasia");
+		hello();
+   	 }//end of main
     public static void hello()
     {
 		System.out.print("Hello from method");
