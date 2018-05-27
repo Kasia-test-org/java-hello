@@ -17,7 +17,6 @@ class Hello
 		System.out.print("Hello from second computer");
 		System.out.println(" using another branch");
 		System.out.println("Downloaded and edited from another computer");
-		System.out.println(" edited through website by Kasia");
 		hello();
    	 }//end of main
     public static void hello()
